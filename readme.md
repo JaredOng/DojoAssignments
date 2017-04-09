@@ -1,0 +1,1 @@
+It contains the types of assignments that we are gonna be sending
